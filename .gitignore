@@ -1,0 +1,14 @@
+# Data and artifacts
+data/
+datasets/
+*.csv
+*.xlsx
+*.parquet
+*.pth
+*.pt
+*.h5
+*.onnx
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
